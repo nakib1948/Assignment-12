@@ -1,4 +1,3 @@
-import React from 'react';
 
 const page = () => {
     return (
@@ -7,13 +6,13 @@ const page = () => {
                 <figure><img src='https://i.ibb.co/CPzxpBf/meeting-4784909-1280.jpg' alt="Album" /></figure>
                 <div className="card-body w-3/4">
                     <h2 className="card-title text-3xl">What makes us different!</h2>
-                    <p> our goal is to share a world of ideas, knowledge, and inspiration. Our platform is a haven for those who want to explore a diverse array of topics, from technology to culture, creativity to current events. With our team of dedicated writers and experts, we're committed to offering thought-provoking content that captivates, educates, and entertains our readers.
+                    <p> our goal is to share a world of ideas, knowledge, and inspiration. Our platform is a haven for those who want to explore a diverse array of topics, from technology to culture, creativity to current events. With our team of dedicated writers and experts, we are committed to offering thought-provoking content that captivates, educates, and entertains our readers.
 
                         Having come into existence in 2010, our blog has evolved into a thriving community of thinkers, storytellers, and enthusiasts. We firmly believe that diverse perspectives enhance our understanding of the world. Our aim is to cultivate an inclusive environment where voices from various backgrounds are acknowledged and celebrated.
 
                         Our mission is to enable individuals to express themselves, share their experiences, and participate in meaningful conversations. Through insightful articles, engaging discussions, and carefully curated content, our vision is to create a platform that ignites curiosity, stimulates dialogue, and nurtures personal development.
 
-                        We're grateful that you're joining us on this expedition of exploration and enlightenment. Together, let's navigate the realm of ideas and uncover the beauty of shared knowledge."
+                        We are grateful that you are joining us on this expedition of exploration and enlightenment. Together, let s navigate the realm of ideas and uncover the beauty of shared knowledge."
 
                     </p>
 

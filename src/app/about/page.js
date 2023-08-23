@@ -37,7 +37,7 @@ const page = () => {
                     </figure>
                     <div className="card-body items-center text-center">
                         <h1 className='text-lg'>By Joe Bony</h1>
-                        <p>This blog is my go-to source for thought-provoking articles. It's like having a cup of coffee with a brilliant mind.</p>
+                        <p>This blog is my go-to source for thought-provoking articles. It is like having a cup of coffee with a brilliant mind.</p>
 
                     </div>
                 </div>

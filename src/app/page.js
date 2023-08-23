@@ -1,6 +1,6 @@
-import Blog from '@/Components/Blog'
-import Bannersection from '@/Components/Home/Bannersection'
-import DiscountSection from '@/Components/Home/DiscountSection'
+import Blog from '@/app/Components/Blog'
+import Bannersection from '@/app/Components/Home/Bannersection'
+import DiscountSection from '@/app/Components/Home/DiscountSection'
 import Image from 'next/image'
 
 

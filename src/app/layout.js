@@ -1,7 +1,7 @@
-import Navbar from '@/Components/Navbar'
+import Navbar from '@/app/Components/Navbar'
 import './globals.css'
 import { Hind_Siliguri, Inter } from 'next/font/google'
-import Footer from '@/Components/Footer'
+import Footer from '@/app/Components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -18,9 +18,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={Siliguri.variable}>
       <body className={inter.className}>
-        <Navbar/>
+        <Navbar></Navbar>
         {children}
-        <Footer/>
+        <Footer></Footer>
         </body>
     </html>
   )

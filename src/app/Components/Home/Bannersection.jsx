@@ -1,7 +1,8 @@
-import React from 'react';
+
 
 const Bannersection = () => {
     return (
+      <>
         <div className="hero min-h-screen mb-10 my-5" style={{backgroundImage: 'url(https://i.ibb.co/zPPMDSD/pencils-762555-1920.jpg)'}}>
         <div className="hero-overlay bg-opacity-30"></div>
         <div className="hero-content text-center text-neutral-content">
@@ -12,6 +13,7 @@ const Bannersection = () => {
           </div>
         </div>
       </div>
+      </>
     );
 };
 

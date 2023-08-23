@@ -1,5 +1,5 @@
 'use client'
-import Blog from '@/Components/Blog';
+import Blog from '@/app/Components/Blog';
 import React from 'react';
 
 const page = () => {

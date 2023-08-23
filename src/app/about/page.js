@@ -12,7 +12,7 @@ const page = () => {
 
                         Our mission is to enable individuals to express themselves, share their experiences, and participate in meaningful conversations. Through insightful articles, engaging discussions, and carefully curated content, our vision is to create a platform that ignites curiosity, stimulates dialogue, and nurtures personal development.
 
-                        We are grateful that you are joining us on this expedition of exploration and enlightenment. Together, let s navigate the realm of ideas and uncover the beauty of shared knowledge."
+                        We are grateful that you are joining us on this expedition of exploration and enlightenment. Together, let s navigate the realm of ideas and uncover the beauty of shared knowledge.
 
                     </p>
 
@@ -26,7 +26,7 @@ const page = () => {
                     </figure>
                     <div className="card-body items-center text-center">
                         <h1 className='text-lg'>By Peter Graffin</h1>
-                        <p>"Incredible content and diverse perspectives. I find myself coming back for more inspiration and insights."</p>
+                        <p>Incredible content and diverse perspectives. I find myself coming back for more inspiration and insights.</p>
 
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const page = () => {
                     </figure>
                     <div className="card-body items-center text-center">
                         <h1 className='text-lg'>By Joe Bony</h1>
-                        <p>"This blog is my go-to source for thought-provoking articles. It's like having a cup of coffee with a brilliant mind."</p>
+                        <p>This blog is my go-to source for thought-provoking articles. It's like having a cup of coffee with a brilliant mind.</p>
 
                     </div>
                 </div>
@@ -48,7 +48,7 @@ const page = () => {
                     </figure>
                     <div className="card-body items-center text-center">
                         <h1 className='text-lg'>By stwie Lois</h1>
-                        <p>"Engaging discussions and well-researched articles. This blog keeps me informed and entertained in equal measure."</p>
+                        <p>Engaging discussions and well-researched articles. This blog keeps me informed and entertained in equal measure.</p>
 
                     </div>
                 </div>
